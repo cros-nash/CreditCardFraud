@@ -52,7 +52,12 @@ Ensure you have the following installed:
    jupyter notebook
    ```
 
-2. Open and run `CreditCardFraud.ipynb`. The notebook is structured as follows:
+2. Download the data files from the following URL:
+
+   - https://drive.google.com/drive/folders/1qhCGDZV32bMrMT-lu8gCL1lu23MNFV0R?usp=share_link
+   - Rename the folder from `CreditCardData` to `data` and place it in the same directory as `CreditCardFraud`.
+
+3. Open and run `CreditCardFraud.ipynb`. The notebook is structured as follows:
    - Load and clean data
    - Perform exploratory data analysis
    - Generate custom features (e.g., transaction time, spending ratios, odds ratios)
