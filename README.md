@@ -1,10 +1,5 @@
 
 # Credit Card Fraud Detection using XGBoost
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![F1 Score](https://img.shields.io/badge/F1%20Score-0.90-green)
-
 ---
 
 ## 📌 Project Description
